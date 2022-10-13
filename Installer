@@ -5,7 +5,7 @@ dnspython
 ffmpeg-python
 future
 git+https://github.com/AKGANISH/downloder@master
-git+https://github.com/LUCYOP420/youtube_search.git@master
+git+https://github.com/LUCYOP420/youtube_search@master
 git+https://github.com/LUCYOP420/youtube-search-python@main
 pillow
 psutil
